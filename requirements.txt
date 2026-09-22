@@ -1,0 +1,33 @@
+# Data Science
+pandas
+numpy
+scipy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Machine Learning
+scikit-learn
+xgboost
+joblib
+shap
+
+# Jupyter
+jupyter
+ipykernel
+
+# Backend
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+
+# Database
+sqlalchemy
+psycopg2-binary
+
+# Testing
+pytest
+httpx

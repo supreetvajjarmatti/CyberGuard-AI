@@ -1,0 +1,58 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+.venv/
+
+# =========================
+# Environment Variables
+# =========================
+.env
+.env.*
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Datasets
+# =========================
+ml/data/raw/*
+ml/data/processed/*
+
+# =========================
+# Trained Models
+# =========================
+ml/models/*.pkl
+ml/models/*.joblib
+ml/models/*.h5
+ml/models/*.keras
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Node / React
+# =========================
+frontend/node_modules/
+frontend/dist/
+
+# =========================
+# IDE
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# OS
+# =========================
+.DS_Store
+Thumbs.db
